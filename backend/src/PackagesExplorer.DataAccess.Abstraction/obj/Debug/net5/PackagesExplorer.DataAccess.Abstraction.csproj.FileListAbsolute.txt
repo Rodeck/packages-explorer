@@ -1,0 +1,12 @@
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\bin\Debug\net5\PackagesExplorer.DataAccess.Abstraction.deps.json
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\bin\Debug\net5\PackagesExplorer.DataAccess.Abstraction.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\bin\Debug\net5\ref\PackagesExplorer.DataAccess.Abstraction.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\bin\Debug\net5\PackagesExplorer.DataAccess.Abstraction.pdb
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\PackagesExplorer.DataAccess.Abstraction.csprojAssemblyReference.cache
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\PackagesExplorer.DataAccess.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\PackagesExplorer.DataAccess.Abstraction.AssemblyInfoInputs.cache
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\PackagesExplorer.DataAccess.Abstraction.AssemblyInfo.cs
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\PackagesExplorer.DataAccess.Abstraction.csproj.CoreCompileInputs.cache
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\PackagesExplorer.DataAccess.Abstraction.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\ref\PackagesExplorer.DataAccess.Abstraction.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess.Abstraction\obj\Debug\net5\PackagesExplorer.DataAccess.Abstraction.pdb

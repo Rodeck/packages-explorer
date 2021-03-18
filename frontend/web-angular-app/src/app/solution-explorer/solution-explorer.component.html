@@ -1,0 +1,47 @@
+
+<div class="input-group mb-3">
+    Newtonsoft.Json
+    <input type="text" class="form-control" [(ngModel)]="packageName" #package placeholder="Enter package name" aria-label="Package to search" aria-describedby="button-search">
+    <div class="input-group-append">
+        <button class="btn btn-outline-secondary" type="button" id="button-search" (click)="search()">Search</button>
+    </div>
+</div>
+
+<div *ngIf="solutions != null">
+    <div *ngIf="solutions.length == 0; else showPackages">
+        <span>No packages found :(</span>
+    </div>
+
+    <div class="list-group">
+        <ng-template #showPackages>
+            <div *ngFor="let item of solutions; index as idx">
+
+                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1"><a [href]="item.uri">{{ item.uri }}</a></h5>
+                        <small class="text-muted"><i class="bi bi-star-fill"></i> {{ item.stars }}</small>
+                    </div>
+                    <p class="mb-1">{{ item.about }}</p>
+                    <small class="text-muted">
+                        {{ item.commits }} <i class="bi bi-bounding-box-circles"></i>
+                        <relative-time [datetime]="item.lastCommitDate">
+                            {{ item.lastCommitDate }}
+                        </relative-time>
+                        {{ item.branches }} <i class="bi bi-alt"></i>
+                        {{ item.projects.length }} <i class="bi bi-layout-text-sidebar"></i>
+                    </small>
+                    <div *ngFor="let project of showProjectsCount(item.projects, idx)">
+                        <a [href]="project.uri"> {{ project.uri }}</a>
+                    </div>
+                    <div *ngIf="!isExpanded(idx); else alreadyExpanded" >
+                        <a class="m-4" [routerLink]="" (click)="expandProjects(idx)"><i class="bi bi-three-dots"></i> {{ getHowManyMore(item.projects, idx) }} more</a>
+                    </div>
+                    <ng-template #alreadyExpanded>
+                        <a class="m-4" [routerLink]="" (click)="collapseProjects(idx)"><i class="bi bi-arrow-bar-up"></i></a>
+                    </ng-template>
+                </a>
+
+            </div>
+        </ng-template>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PackagesExplorer.DataAccess.Abstraction\PackagesExplorer.DataAccess.Abstraction.csproj" />
+  </ItemGroup>
+
+</Project>

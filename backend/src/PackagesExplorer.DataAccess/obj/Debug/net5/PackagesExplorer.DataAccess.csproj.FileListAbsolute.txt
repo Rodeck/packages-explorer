@@ -1,0 +1,15 @@
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\bin\Debug\net5\PackagesExplorer.DataAccess.deps.json
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\bin\Debug\net5\PackagesExplorer.DataAccess.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\bin\Debug\net5\ref\PackagesExplorer.DataAccess.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\bin\Debug\net5\PackagesExplorer.DataAccess.pdb
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\bin\Debug\net5\PackagesExplorer.DataAccess.Abstraction.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\bin\Debug\net5\PackagesExplorer.DataAccess.Abstraction.pdb
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.csprojAssemblyReference.cache
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.AssemblyInfoInputs.cache
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.AssemblyInfo.cs
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.csproj.CoreCompileInputs.cache
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.csproj.CopyComplete
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\ref\PackagesExplorer.DataAccess.dll
+C:\projects\packages-explorer\backend\PackagesExplorer.DataAccess\obj\Debug\net5\PackagesExplorer.DataAccess.pdb
