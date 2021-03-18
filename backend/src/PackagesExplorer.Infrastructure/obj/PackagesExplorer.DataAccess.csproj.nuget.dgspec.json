@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\packages-explorer\\backend\\src\\PackagesExplorer.Infrastructure\\PackagesExplorer.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\packages-explorer\\backend\\src\\PackagesExplorer.Infrastructure\\PackagesExplorer.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\packages-explorer\\backend\\src\\PackagesExplorer.Infrastructure\\PackagesExplorer.DataAccess.csproj",
+        "projectName": "PackagesExplorer.DataAccess",
+        "projectPath": "C:\\projects\\packages-explorer\\backend\\src\\PackagesExplorer.Infrastructure\\PackagesExplorer.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\pajak\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\packages-explorer\\backend\\src\\PackagesExplorer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pajak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/csharkpl/_packaging/Mako.Net/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/csharkpl/_packaging/PlatformLibs/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {
+              "C:\\projects\\packages-explorer\\backend\\src\\PackagesExplorer.DataAccess.Abstraction\\PackagesExplorer.DataAccess.Abstraction.csproj": {
+                "projectPath": "C:\\projects\\packages-explorer\\backend\\src\\PackagesExplorer.DataAccess.Abstraction\\PackagesExplorer.DataAccess.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

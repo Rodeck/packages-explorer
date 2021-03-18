@@ -1,0 +1,6 @@
+C:\projects\packages-explorer\backend\src\PackagesExplorer.Infrastructure\bin\Debug\net5\PackagesExplorer.Application.dll
+C:\projects\packages-explorer\backend\src\PackagesExplorer.Infrastructure\bin\Debug\net5\PackagesExplorer.Domain.dll
+C:\projects\packages-explorer\backend\src\PackagesExplorer.Infrastructure\obj\Debug\net5\PackagesExplorer.Infrastructure.csprojAssemblyReference.cache
+C:\projects\packages-explorer\backend\src\PackagesExplorer.Infrastructure\obj\Debug\net5\PackagesExplorer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\packages-explorer\backend\src\PackagesExplorer.Infrastructure\obj\Debug\net5\PackagesExplorer.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\packages-explorer\backend\src\PackagesExplorer.Infrastructure\obj\Debug\net5\PackagesExplorer.Infrastructure.AssemblyInfo.cs
